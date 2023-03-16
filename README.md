@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand</h1>
-
+<h3 align="center">i am sotware developer with 2+ years of experience in information technology i work for frontend development applications</h3>
 <p align="left"> <a href="https://twitter.com/anandsg_" target="blank"><img src="https://img.shields.io/twitter/follow/anandsg_?logo=twitter&style=for-the-badge" alt="anandsg_" /></a> </p>
 
 - 📫 How to reach me **anandgadugin@gmail.com**
