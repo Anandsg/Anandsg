@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anand</h1>
+<h1 align="center">Hey there, Anand here! </h1>
 <h3 align="center">I am sotware developer with 2+ years of experience in information technology I work for frontend development applications</h3>
 <p align="left"> <a href="https://twitter.com/anandsg_" target="blank"><img src="https://img.shields.io/twitter/follow/anandsg_?logo=twitter&style=for-the-badge" alt="anandsg_" /></a> </p>
 
