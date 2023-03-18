@@ -1,4 +1,4 @@
-I am software developer with 2+ years of experience in information technology I work for frontend development applications, learning flutter xD!!
+<h2>I am software developer with 2+ years of experience in information technology I work for frontend development applications, learning flutter xD!!</h2>
 
 
 ## 🌐 Socials:
