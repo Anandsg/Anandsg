@@ -25,9 +25,6 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
@@ -52,11 +49,8 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://reactrouter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/React%20Router-%2300D8FF.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
-  </a>
   <a href="https://www.json.org/json-en.html" target="_blank">
-    <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+    <img src="https://img.shields.io/badge/JSON-%23323330.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
   </a>
 </p>
 
