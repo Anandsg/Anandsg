@@ -1,10 +1,10 @@
-<h2>Software developer with 2+ years of experience in information technology I work for frontend development applications, learning flutter xD!! </h2>
+### 💫 About Me:
+🔭 **I’m currently working on:**  <br>Passionate frontend developer skilled in React.Js, JavaScript, Next.js, Tailwind CSS, HTML and proficient in creating responsive , user-friendly web applications with a keen eye for design dedicated to delivering seamless user experiences through clean, well-structured code!!<br><br>💬 **Ask me about:**  <br>React.js, JavaScript, Next.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love Jamming on weekends.
 
-
-## 🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anand_gadagin_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anand-gadagin-6a8a96184/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anandsg_) 
 
-# 💻 Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
@@ -54,7 +54,7 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anandsg&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anandsg&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandsg&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
