@@ -1,5 +1,5 @@
 ### 💫 About Me:
-<br>Passionate frontend developer skilled in React.Js, JavaScript, Next.js, Tailwind CSS, HTML and proficient in creating responsive , user-friendly web applications with a keen eye for design dedicated to delivering seamless user experiences through clean, well-structured code 🧑‍💻 <br><br>💬 **Ask me about:**  <br>React.js, JavaScript, Next.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love Jamming on weekends.
+Passionate frontend developer skilled in React.Js, Redux, JavaScript, Next.js, Tailwind CSS, HTML and proficient in creating responsive, user-friendly web applications with a keen eye for design dedicated to delivering seamless user experiences through clean, well-structured code 🧑‍💻 <br><br>💬 **Ask me about:**  <br>React.js, JavaScript, Next.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love Jamming on weekends.
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anand_gadagin_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anand-gadagin-6a8a96184/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anandsg_) 
@@ -51,16 +51,18 @@
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank">
     <img src="https://img.shields.io/badge/JSON-%23323330.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-  </a>
+  </a> 
+    <a href="https://www.json.org/json-en.html" target="_blank">
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
+  </a> 
+    <a href="https://www.json.org/json-en.html" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+  </a> 
 </p>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anandsg&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anandsg&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandsg&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anandsg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anandsg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandsg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
