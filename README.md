@@ -19,6 +19,6 @@ Passionate frontend developer skilled in React.Js, Redux, JavaScript, Next.js, T
 -------
 
 <p>
-  <img src="https://github-readme-streak-stats-kv.vercel.app?user=Anandsg&theme=tokyonight_duo&hide_border=true" width="48%" alt="Anand's github-readme-streak-stats"/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anandsg&theme=tokyonight"  width="31%" alt="Anand's github stats"/>
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=Anandsg&theme=tokyonight_duo&hide_border=true" width="50%" alt="Anand's github-readme-streak-stats"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anandsg&theme=tokyonight"  width="35%" alt="Anand's github stats"/>
 </p>
