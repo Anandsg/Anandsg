@@ -13,14 +13,17 @@ Passionate frontend developer skilled in React.Js, Redux, JavaScript, Next.js, T
 </p>
 
 ### 📊 GitHub Stats:
+| <a href="https://github.com/Anandsg/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anandsg&show_icons=true&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/Anandsg/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Anandsg&langs_count=8&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true"/></a> |
+| ------------- | ------------- |
+
+-------
+
 <p>
-  <img src="https://github-readme-stats-kv.vercel.app/api?username=Anandsg&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Anand's github-readme-stats"/>
   <img src="https://github-readme-streak-stats-kv.vercel.app?user=Anandsg&theme=tokyonight_duo&hide_border=true" width="48%" alt="Anand's github-readme-streak-stats"/>
 </p>
 
 <p>
-    <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=Anandsg&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="Anandsg" />
-    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=Anandsg&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="90%" alt="activity graph"/>
+    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=Anandsg&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph"/>
 
 <h2></h2>
 
