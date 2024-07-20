@@ -7,10 +7,13 @@ Passionate frontend developer skilled in React.Js, Redux, JavaScript, Next.js, T
 
 ### 🧑‍💻 Languages & Tools:
 <p align="cente">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,tailwind,jest,sass,bootstrap,materialui" alt="programming languages" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,expressjs,mongodb,redux,tailwind,jest" alt="programming languages" />
 </p>
 <p align="cente">
   <img src="https://skillicons.dev/icons?i=netlify,webpack,babel,github,firebase,vscode,flutter,jenkins,ai,ps" alt="frameworks" />
+</p>
+<p align="cente">
+  <img src="https://skillicons.dev/icons?i=sass,bootstrap,materialui" alt="frameworks" />
 </p>
 
 ### 📊 GitHub Stats:
