@@ -1,5 +1,5 @@
 ### 💫 About Me:
-Passionate frontend developer skilled in React.Js, Redux, JavaScript, Next.js, Tailwind CSS, HTML and proficient in creating responsive, user-friendly web applications with a keen eye for design dedicated to delivering seamless user experiences through clean, well-structured code 🧑‍💻 <br><br>💬 **Ask me about:**  <br>React.js, JavaScript, Next.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love Jamming on weekends.
+Passionate frontend developer skilled in React.js, Next.js, JavaScript, RTK, Tailwind CSS, Node.js and proficient in creating responsive, user-friendly web applications with a keen eye for design dedicated to delivering seamless user experiences through clean, well-structured code 🧑‍💻 <br><br>💬 **Ask me about:**  <br>React.js, JavaScript, Next.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love Jamming on weekends.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-gadagin-6a8a96184/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anandsg_)
