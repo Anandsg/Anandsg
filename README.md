@@ -25,7 +25,6 @@ Passionate frontend developer skilled in React.js, Next.js, JavaScript, RTK, Tai
 | <a href="https://github.com/Anandsg/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anandsg&show_icons=true&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/Anandsg/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Anandsg&langs_count=8&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true"/></a> |
 | ------------- | ------------- |
 
-<a href="https://www.buymeacoffee.com/anandsg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 36px !important;width: 147px !important;" ></a>
 
 -------
 
